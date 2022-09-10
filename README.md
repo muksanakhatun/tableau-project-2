@@ -1,10 +1,9 @@
 # tableau-project-2
 
-### 2. medicare part D 
+## 2. medicare part D 
 <img src="https://github.com pic link Image.PNG" alt="SS 2"/>
-### 3. UT Mart Sales Analytics Dashboard
 
-<img src="https://github.com/pic linkPNG.PNG" alt="SS 3"/>
+
 
 
 
