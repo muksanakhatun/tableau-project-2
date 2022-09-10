@@ -1,6 +1,18 @@
 # tableau-project-2
 
-## 2. medicare part D 
+### 1. Medicare Part D Analysis Dashboard
+This shows different types of natural disaster in the world. From this dashboard shows:
+
+- Frequency of natural disaster over the years
+
+- Most disaster prone countires
+
+- Total damage,
+
+- total death,
+
+- total affected from natural disaster over the years.
+
 <img src="https://github.com/muksanakhatun/tableau-project-2/blob/main/medicare%20part%20d.png" alt="SS 2"/>
 
 
