@@ -4,7 +4,7 @@
 
 <a href="https://public.tableau.com/app/profile/muksana.khatun4536/viz/MedicarePartDSpendingbyDrug2016-2020/Dashboard4">Click Here</a>
 
-This dashboard represent information and analysis from 2016 to 2020. This dashboard shows:
+This dashboard represent information and analysis from **2016 to 2020**. This dashboard shows:
 
 - Total spendings over the years
 
