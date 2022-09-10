@@ -1,7 +1,7 @@
 # tableau-project-2
 
 ## 2. medicare part D 
-<img src="https://github.com pic link Image.PNG" alt="SS 2"/>
+<img src="https://github.com/muksanakhatun/tableau-project-2/blob/main/medicare%20part%20d.png" alt="SS 2"/>
 
 
 
