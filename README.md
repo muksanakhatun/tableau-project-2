@@ -1,17 +1,20 @@
 # tableau-project-2
 
-### 1. Medicare Part D Analysis Dashboard
-This shows different types of natural disaster in the world. From this dashboard shows:
+### 1. Medicare Part D Spending by Drug Analysis Dashboard
 
-- Frequency of natural disaster over the years
+<a href="https://public.tableau.com/app/profile/muksana.khatun4536/viz/MedicarePartDSpendingbyDrug2016-2020/Dashboard4">Click Here</a>
 
-- Most disaster prone countires
+This dashboard represent information and analysis from 2016 to 2020. This dashboard shows:
 
-- Total damage,
+- Total spendings over the years
 
-- total death,
+- Total claims over the years
 
-- total affected from natural disaster over the years.
+- Total benificaries over the years
+
+- Annual Growth Rate in Average and Total Spending Per Dosage Unit with Generic & Brand name
+
+- Total dosage. 
 
 <img src="https://github.com/muksanakhatun/tableau-project-2/blob/main/medicare%20part%20d.png" alt="SS 2"/>
 
